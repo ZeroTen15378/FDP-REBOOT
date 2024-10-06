@@ -1,4 +1,4 @@
-local OrionLib = loadstring(game:HttpGet(("https://raw.kkgithub.com/Smk114514/Lua-Script/main/Orion.lua")))()
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 
 OrionLib:MakeNotification({
 	Name = "脚本加载完毕！：",
